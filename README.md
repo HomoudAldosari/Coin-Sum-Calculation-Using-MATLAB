@@ -1,4 +1,3 @@
-# Coin-Sum-Calculation-Using-MATLAB
 # Project Description: Coin Sum Calculation using Image Processing in MATLAB
 
 # Objective:
